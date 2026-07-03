@@ -1,0 +1,6 @@
+{
+  "name": "Howard Woods Tracking",
+  "description": "Tax refund tracking dashboard for Howard Woods' $165,000 refund.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
